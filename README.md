@@ -1,17 +1,3 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/davidship001/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="28" alt="linkedin logo"  />
-  </a>
-  <a href="discord.com/d4vee" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="28" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/dapiiiiiid/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="28" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <h1 align="left">Hey!</h1>
