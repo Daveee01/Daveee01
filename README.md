@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👾 Player 1 Ready: David Kapal
-
 <img src="https://media.giphy.com/media/V4NSR1NG2p0qeBmKWZ/giphy.gif" width="150px" align="right">
 
 ### Mahasiswa @ Universitas Klabat | Aspiring Developer
