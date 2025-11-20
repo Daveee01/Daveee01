@@ -1,45 +1,61 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/V4NSR1NG2p0qeBmKWZ/giphy.gif" width="150px" align="right">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=David%20Kapal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Student%20%40%20Universitas%20Klabat&descAlignY=60)
 
-### Mahasiswa @ Universitas Klabat | Aspiring Developer
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+
+### Night Coder 🎮
 
 </div>
 
 ---
 
-### 👨‍💻 Character Profile
-*   **Guild:** Universitas Klabat (UNKLAB) 🎓
-*   **Class:** Student / Learner
-*   **Current Mission:** Exploring the vast world of programming.
+### ⚡ About Me
+Hai! Saya **David Kapal**, mahasiswa **Universitas Klabat** yang sedang menyelami Programming.
+
+*   🌱 I’m currently learning: **Everything.**
+*   💬 Hobbies: **Gaming, Basketball, & Debugging.**
 
 ---
 
-### ⚔️ Skill Tree (Loading Progress)
-Saya masih dalam tahap eksplorasi. Anggap saja ini *loading bar* menuju pro player! 🚀
+### 🛠️ Installation in Progress... (Skill Mastery)
+*System Status: Learning Modules Loaded at 25%*
 
-| Tech Stack | Mastery Progress | Status |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=python" width="40"> **Python** | ![25%](https://geps.dev/progress/25) | *Learning Syntax* 🐍 |
-| <img src="https://skillicons.dev/icons?i=js" width="40"> **JavaScript** | ![25%](https://geps.dev/progress/25) | *Understanding Logic* ⚡ |
-| <img src="https://skillicons.dev/icons?i=ts" width="40"> **TypeScript** | ![25%](https://geps.dev/progress/25) | *Adding Types* 🛡️ |
-| <img src="https://skillicons.dev/icons?i=react" width="40"> **React** | ![25%](https://geps.dev/progress/25) | *Building Components* ⚛️ |
-| <img src="https://skillicons.dev/icons?i=cs" width="40"> **C#** | ![25%](https://geps.dev/progress/25) | *Game Logic / .NET* 🎮 |
+<br>
+
+**Python** `[==>........]` 25%
+<br>
+<img src="https://progress-bar.dev/25/?title=Beginner&width=500&color=3776ab" alt="Python Progress">
+
+**JavaScript** `[==>........]` 25%
+<br>
+<img src="https://progress-bar.dev/25/?title=Exploration&width=500&color=f7df1e" alt="JS Progress">
+
+**React.js** `[==>........]` 25%
+<br>
+<img src="https://progress-bar.dev/25/?title=Components&width=500&color=61dafb" alt="React Progress">
+
+**TypeScript** `[==>........]` 25%
+<br>
+<img src="https://progress-bar.dev/25/?title=Typing&width=500&color=3178c6" alt="TS Progress">
+
+**C# (C-Sharp)** `[==>........]` 25%
+<br>
+<img src="https://progress-bar.dev/25/?title=Scripting&width=500&color=239120" alt="C# Progress">
 
 ---
 
-### 🕹️ Controller
+### 📊 GitHub Activity
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlCg/giphy.gif" width="300">
-  <br>
-  <br>
-  <a href="https://instagram.com/username">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://linkedin.com/in/username">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="david-stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="david-streak" />
 </div>
 
-### 📺 My GitHub Views
-![Visitor Count](https://profile-counter.glitch.me/Daveee01/count.svg)
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiByo/giphy.gif" width="100">
+  <br>
+  <b>Let's Connect!</b><br>
+  <a href="mailto:emailmu@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
