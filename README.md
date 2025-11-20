@@ -13,7 +13,6 @@
 ### 👨‍💻 Character Profile
 *   **Guild:** Universitas Klabat (UNKLAB) 🎓
 *   **Class:** Student / Learner
-*   **Side Quests:** 🎮 Gaming (Push Rank) & 🏀 Basketball (Slam Dunk)
 *   **Current Mission:** Exploring the vast world of programming.
 
 ---
