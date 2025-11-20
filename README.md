@@ -47,8 +47,8 @@ Hai! Saya **David Kapal**, mahasiswa **Universitas Klabat** yang sedang menyelam
 
 ### 📊 GitHub Activity
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="david-stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="david-streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Daveee01&show_icons=true&theme=tokyonight&hide_border=true" alt="david-stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daveee01&theme=tokyonight&hide_border=true" alt="david-streak" />
 </div>
 
 ---
