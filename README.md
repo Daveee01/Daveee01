@@ -45,4 +45,4 @@ Saya masih dalam tahap eksplorasi. Anggap saja ini *loading bar* menuju pro play
 </div>
 
 ### 📺 My GitHub Views
-![Visitor Count](https://profile-counter.glitch.me/USERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Daveee01/count.svg)
