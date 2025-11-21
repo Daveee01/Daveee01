@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm David, an Informatics student at Klabat University. I enjoy exploring new ideas and mixing things that don’t necessarily need to be combined.</p>
+<p align="left">I'm David, an Informatics student at Klabat University.<br>I enjoy exploring new ideas and mixing things that don’t necessarily need to be combined.</p>
 
 ###
 
